@@ -1,3 +1,6 @@
+Trying to implement my knowledge to rewrite it in another lang, first will document each part to 
+better understand it then I will rewrite to test a full working app 
+
 cron-job.org
 ============
 
